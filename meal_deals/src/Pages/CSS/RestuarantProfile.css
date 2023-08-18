@@ -1,0 +1,114 @@
+h2{
+    position: relative;
+    
+}
+.firstLabels{
+    position: relative;
+    left: 3%;
+    margin: 0.15%
+}
+
+#firstInputBox{
+    position: relative;
+    left: 10px;
+}
+#secondInputBox{
+    position: relative;
+    left: 75.017px
+}
+#thirdInputBox{
+    position: relative;
+    left: 24.357px
+}
+#changeBtn{
+    position: relative;
+    left: 3%;
+    top: 10px;
+    bottom: 10px;
+}
+#editValues{
+    position: relative;
+    left: 4%;
+}
+#menu{
+    position: relative;
+    left: 2%;
+}
+.menuItems{
+    position: relative;
+    margin-top: 25px;
+    bottom: 5px;
+    width: 20%;
+}
+#popup {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    /* Whatever width you want */
+    background-color: 	#DCDCDC;
+    z-index: 10;
+    border-radius: 25px;
+}
+#popUpEdit {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    /* Whatever width you want */
+    background-color: 	#DCDCDC;
+    z-index: 10;
+    border-radius: 25px;
+}
+
+#outerRemove {
+    display: table;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+#outerEdit {
+    display: table;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+#popUpAdd {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    /* Whatever width you want */
+    background-color: 	#DCDCDC;
+    z-index: 10;
+    border-radius: 25px;
+}
+
+#outerAdd {
+    display: table;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+  
+#middle {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  
+.popUpBtnDiv{
+    position: relative;
+    top:50,
+}
+
+.editInputBox{
+    position: relative;
+    padding: 10;
+}

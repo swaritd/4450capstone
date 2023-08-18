@@ -1,0 +1,45 @@
+.UserProfile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.defaultBtn {
+    height: 35px;
+    width: 150px;
+  }
+
+.component-container {
+    border-bottom: 1px solid #ccc;
+  }
+
+.page-container {
+    margin: 0 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-container {
+    padding-top: 20px;
+    margin: 0 20px;
+}
+
+.column-container {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.profile-container {
+    padding-left: 800px;
+}
+
+.page-container {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
