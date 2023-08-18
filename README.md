@@ -1,5 +1,5 @@
 # se4450-project-group-12
-se4450-project-group-12 created by GitHub Classroom
+se4450-project-group-12 created by GitHub Classroom - Created this as a replica repo because the course and professor owned the original (and private) repo
 
 Steps to replicate application:
 1. git clone and init this repository 
